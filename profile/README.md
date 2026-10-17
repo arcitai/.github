@@ -1,29 +1,25 @@
-![Arc’ It AI — Practical AI, built around your work.](https://raw.githubusercontent.com/arcitai/.github/main/profile/assets/arcitai-banner.png)
+![Arc’IT AI — IT architecture, advice and custom software.](https://raw.githubusercontent.com/arcitai/.github/main/profile/assets/arcitai-banner.png)
 
-# Arc’ It AI
+# Arc’IT AI
 
-Practical AI methods, software and support. We help turn useful ideas into
-working systems, with clear responsibilities and a process people can trust.
+IT consulting, architecture and custom software. From a one-off consultation
+to building, delivering and maintaining a working solution.
 
-## Start with Factory
+## How we help
 
-[Factory](https://github.com/arcitai/factory) is our open method for working
-with coding agents. It brings together **Foundation** to prepare a project,
-**AgentOps** to coordinate the work, and **ADLC** to build, review and deliver it.
-T3 Code, native coding harnesses and GitHub provide the workspace and tools.
+- **Advice and architecture:** technical sparring, system reviews and help choosing a practical way forward.
+- **Custom development:** apps, integrations and software built around the work it needs to support.
+- **Delivery and ongoing care:** getting solutions into use and keeping them useful, including self-hosted systems and local AI setups.
 
-Use it with your own application, standards and infrastructure. Start with one
-bounded task and verify the result before relying on unattended work.
+[Visit Arc’IT AI](https://arcitai.com) · [Get in touch](mailto:hello@arcitai.com)
 
-[Explore Factory](https://github.com/arcitai/factory) · [Visit Arc’ It AI](https://arcitai.com) · [Get in touch](mailto:hello@arcitai.com)
+## How we build
 
-## Repositories
+[Factory](https://github.com/arcitai/factory) is our open method for preparing,
+coordinating, building and reviewing work with coding agents. It brings together
+Foundation, AgentOps and ADLC, with clear responsibilities and checks along the way.
 
 | Repository | Purpose |
 | --- | --- |
-| [Factory](https://github.com/arcitai/factory) | The current Foundation, AgentOps and ADLC method and setup package |
+| [Factory](https://github.com/arcitai/factory) | Methods and tools for building and reviewing software with coding agents |
 | [Website](https://github.com/arcitai/arcitai-website) | Source for arcitai.com |
-
-The earlier [Factory implementation](https://github.com/arcitai/factory-software-defence)
-and [AIOS pilot](https://github.com/arcitai/aios-pilot) are public archives.
-Current development happens in the repositories above.
