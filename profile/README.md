@@ -1,3 +1,5 @@
+[![Arc’IT AI](assets/arcitai-banner.svg)](https://arcitai.com)
+
 # Arc’IT AI
 
 Data and AI consultancy shaped around your business.
