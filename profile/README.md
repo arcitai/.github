@@ -2,9 +2,8 @@
 
 # Arc’IT AI
 
-Data and AI consultancy shaped around your business.
-
-We help organise your data and context into a foundation for software and AI,
-with guidance and documentation your team can build on.
+Put AI to work across your teams. Use AI agents for analysis, software and
+other work grounded in shared business data and context, with agreed access
+and human review. We build around the systems you already use.
 
 [Website](https://arcitai.com) · [Agentic Systems](https://github.com/arcitai/agentic-systems)
